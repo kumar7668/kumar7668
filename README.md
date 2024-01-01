@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kumar7668
-- 👀 I’m interested in Python , ML, DS and more.
-- 🌱 I’m currently learning and doing a job in it sector.
+- 👀 A Python Devloper.
 - 💞️ I’m looking to collaborate...
 - 📫 How to reach me ...@kumar_7668(insta), Kumar_7668(FB) and sonumandal.ga (web).
 
